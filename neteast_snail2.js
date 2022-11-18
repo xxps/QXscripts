@@ -1,6 +1,6 @@
 [rewrite_local]
 
-^https://p.du.163.com/gain/readtime/info.json url script-response-body https://raw.githubusercontent.com/xxps/QXscripts/main/neteast_snail2.js
+^https:\/\/p\.du\.163\.com\/gain\/readtime\/info.json url script-response-body https://raw.githubusercontent.com/xxps/QXscripts/main/neteast_snail2.js
 
 [mitm] 
 
