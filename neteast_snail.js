@@ -9,6 +9,6 @@ info.json
 
 var body = $response.body;
 var obj = JSON.parse(body);
-obj.tradeEndTime = 1670734438;
+obj.tradeEndTime = 1668747484;
 body = JSON.stringify(obj);
 $done({body})
